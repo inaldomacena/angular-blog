@@ -3,7 +3,7 @@ export const dataFake = [
     id: '1',
     photo:
       'https://miro.medium.com/v2/resize:fit:1358/0*KNqK1IFDqENcyGXS',
-    title: 'Novo blog',
+    title: 'curso blog',
     description: 'Veja o novo blog feito em Angular!',
   },
   {
