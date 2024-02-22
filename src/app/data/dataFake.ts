@@ -2,28 +2,28 @@ export const dataFake = [
   {
     id: '1',
     photo:
-      'https://miro.medium.com/v2/resize:fit:1358/0*KNqK1IFDqENcyGXS',
+      'https://hermes.dio.me/tracks/62ed1f1d-8d76-4bbc-905f-e73d20cb82f5.png',
     title: 'Curso Formação HTML 5',
-    description: 'Veja o novo blog feito em Angular!',
+    description: '',
   },
   {
     id: '2',
     photo:
-      'https://miro.medium.com/v2/resize:fit:1400/1*moJeTvW97yShLB7URRj5Kg.png',
+      'https://hermes.dio.me/tracks/da043c7a-7189-441e-bf28-adc2d05a4934.png',
     title: 'Curso Formação CSS 3',
-    description: 'Veja meu aprendizado em Typescript com esse novo blog! Gostou? Visite meu GitHub que tem mais!',
+    description: '',
   },
   {
     id: '3',
     photo:
-      'https://hermes.dio.me/articles/cover/a4b5221c-5d38-4f82-830e-78a655b87de6.jpg',
+      'https://i.ytimg.com/vi/sBirK_DGM8A/maxresdefault.jpg',
     title: ' Curso JavaScript Developer',
-    description: 'JavaScript é incrível! Com ele, foi possível criar esse blog usando Angular.',
+    description: '',
   },
   {
     id: '4',
     photo:
-      'https://www.thoughtco.com/thmb/094YF3bQBiuV_13n92GFQZWkM7k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/JavaScript-58acbb8a3df78c345bad32c2.jpg',
+      'https://hermes.dio.me/files/assets/0ed55d2d-deb4-4bbc-a92c-c1d223849cc1.png',
     title: 'Curso Lógica de Progamação',
     description: 'Estudando um pouco todo dia eu irei longe!',
   },
