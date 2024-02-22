@@ -18,10 +18,5 @@ Inspirado no modelo do dribbble: [Modelo](https://dribbble.com/shots/18089191-Bl
 
 Blog criado com Angular, utilizando componentes dinâmicos para atualizar o conteúdo e as imagens. Foram adicionadas páginas para cada artigo, permitindo o trabalho com rotas. Os próximos passos serão trabalhar mais no conteúdo de cada página.
 
-## 🚶 Acesso ##
 
-Deploy disponível no [Vercel](https://blog-ochre-theta-51.vercel.app/).
 
-## 👩🏻‍💻 Feito por ##
-
-Desenvolvido com ♥ por [Bruna Soncini](www.linkedin.com/in/brunasoncini/).
