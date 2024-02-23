@@ -1,6 +1,6 @@
 # BLOG #
 
-![Imagem do projeto](image.png)
+![Imagem do projeto]()
 
 ## 📝 Descrição do projeto ##
 
