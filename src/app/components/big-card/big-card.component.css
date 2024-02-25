@@ -11,6 +11,8 @@
 .big-card__title > h1 {
   font-size: 2em;
   margin-top: 15px;
+  margin-left: -60px;
+  
 }
 
 .big-card__description {
@@ -34,5 +36,8 @@
 
   .big-card__title > h1 {
     font-size: 1em;
+    text-align:center;
+    margin:auto;
+    
   }
 }

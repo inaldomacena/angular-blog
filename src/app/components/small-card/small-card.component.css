@@ -17,6 +17,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  text-align:center;
 }
 
 .small-card__title > h1 {
@@ -34,5 +35,7 @@
   
   .small-card__title > h1 {
     font-size: 1em;
+    text-align:center;
   }
 }
+
